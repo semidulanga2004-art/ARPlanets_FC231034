@@ -5,4 +5,5 @@
 [Bb]uild/
 [Bb]uilds/
 UserSettings/
+.utmp/
 .vs/
